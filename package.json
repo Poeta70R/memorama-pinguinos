@@ -1,0 +1,19 @@
+{
+    "name": "memorama-pinguinos",
+    "version": "1.0.0",
+    "description": "Juego de memoria con dibujos de pingüinos que consiste en encontrar dos tarjetas iguales. Se utilizó como modelo la propuesta de Marina Ferreira (2018) y las instrucciones de su tutorial: Memory Game in Vanilla JavaScript (https://medium.com/free-code-camp/vanilla-javascript-tutorial-build-a-memory-game-in-30-minutes-e542c4447eae)",
+    "main": "script.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "memorama",
+      "juego de memoria",
+      "pingüinos",
+      "memory game",
+      "Pingüino de Galápagos",
+      "JavaScript"
+    ],
+    "author": "Luis López-Méndez",
+    "license": "MIT"
+  }
